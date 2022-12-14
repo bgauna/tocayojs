@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "nombre": "CRIOLIPOLISIS NIZA DOBLE SERIE 2",
+        "codigo": "SVCL0011",
+        "precio": 450000,
+        "año": 2019,
+        "img": "svcl0011.jpg"
+
+    },
+
+    {
+        "id": 2,
+        "nombre": "HAMMER SL DWIN",
+        "codigo": "SVCO0004",
+        "precio": 350000,
+        "año": 2022,
+        "img": "svco0004.jpg"
+
+    },
+
+    {
+        "id": 3,
+        "nombre": "CRIO-FRAXIS PLUS",
+        "codigo": "SVRF0016",
+        "precio": 650000,
+        "año": 2021,
+        "img": "svrf0016.jpg"
+
+    },
+
+    {
+        "id": 4,
+        "nombre": "LIPOSHOCK",
+        "codigo": "SVCO002",
+        "precio": 1500000,
+        "año": 2019,
+        "img": "svco0002.jpg"
+
+    },
+
+    {
+        "id": 5,
+        "nombre": "BODYGO PERFORM MS 2G MT",
+        "codigo": "SVMG0005",
+        "precio": 3500000,
+        "año": 2022,
+        "img": "svmg0005.jpg"
+
+    },
+
+    {
+        "id": 6,
+        "nombre": "VELAKORPER",
+        "codigo": "SVCO0004",
+        "precio": 2500000,
+        "año": 2021,
+        "img": "svco0004.jpg"
+
+    },
+
+    {
+        "id": 7,
+        "nombre": "ROLL ACTIVE",
+        "codigo": "SVRF0018",
+        "precio": 2500000,
+        "año": 2022,
+        "img": "svrf0018.jpg"
+
+    },
+
+    {
+        "id": 8,
+        "nombre": "DERMOLIGHT LASER 1400W",
+        "codigo": "SVLP0010",
+        "precio": 4500000,
+        "año": 2019,
+        "img": "svlp0010.jpg"
+
+    }
+
+
+]

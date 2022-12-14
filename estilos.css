@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#titulo{
+    background-color: aquamarine;
+}
+#subtitulo{
+    background-color: cadetblue;
+    color: white;
+}
+
+.centrarTexto{
+    text-align: center;
+}

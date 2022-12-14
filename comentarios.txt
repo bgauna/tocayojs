@@ -1,0 +1,16 @@
+Antes que nada tocayo, gracias por la confianza de poder colaborarte. Voy a dejar acá unos comentarios que estuve viendo de tu código
+
+Comentarios
+1- No tenés un INDEX.HTML, yo voy a añadirlo
+2- Te recomiendo que agregues el código dentro de funciones, y que luego las vayas llamando. Sé que es como "muy complicado", pero siento que es la única manera de ordenar lo que sucede en JS. Una vez que te amigás con las funciones, va saliendo.
+3- Corregí el archivo .json, y armé la función sincrónica. Creo que ahora está funcionando el display de productos.
+4- Acomodé el HTML, agregando un CSS para que se vea mejor el trabajo
+5- Eliminé la función dolar, no creo que le sume a tu laburo
+6- Hice un console.log de const botonesAgregar = document.querySelectorAll('.btn-primary'), y resulta que no está cargando nada. Encontré como hacer para meter todos los botones. Te agregué el código dentro de una función (crearEventosCatalogo)
+7- Creaste el carrito como un let, voy a cambiarlo a un CONST CARRITO = [], así uso los métodos de arrays
+8- Eliminé const botonesAgregar = document.querySelectorAll('.btn-primary')
+9- Corregí el boton de finalizar compra
+
+Espero que esto al menos te sirva para mantener la beca! Me voy a dormir que llevo a mi niño a terapia a las 8 y son las 5 de la mañana.
+
+abrazo!
